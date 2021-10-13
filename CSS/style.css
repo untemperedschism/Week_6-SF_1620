@@ -5,10 +5,14 @@
   font-size: 10px;
 }
 
+#div-one > p {
+  color: red;
+}
+
 header {
   background: #f3f2fa;
-  /* position: sticky; */
-  /* top: 0px */
+  position: sticky;
+  top: 0px
 }
 
 li {
